@@ -1,0 +1,22 @@
+.primary{
+    color: orange;
+    padding: 0px;
+    margin: 0px;
+
+}
+.font-xl{
+    font-size: 12px;
+}
+.form{
+    padding: 0px;
+    color: blue;
+    font-size: medium;
+}
+/* .hurray{
+    color:green;
+    text-decoration: underline;
+} */
+.hurray:active{
+    color:green;
+    text-decoration: underline;
+}
